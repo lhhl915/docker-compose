@@ -38,6 +38,9 @@ docker-compose up -d    (-d 后台运行)
 ###Disconf客户端的配置
 首先应配置disconf.properties指向[http://yourhost:8081](http://)。Disconf的客户端需要访问zookeeper，会使用/DockerDisconf/disconf-build/config/zoo.properties中的配置。为了统一配置，Docker-Disconf的配置使用了disconf-zoo:2181，因此在客户端所在的主机上需要配置hosts文件
 ，将主机名disconf-zoo映射到Docker所在的服务器ip。
+
+访问测试：http://ip:8081
+
 ## (非Docker Compose方式)部署运行Disconf
 【说明】本章是早期版本，操作步骤较多。推荐使用前面章节介绍的Docker Compose部署运行。
 
