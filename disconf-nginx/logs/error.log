@@ -1,3 +1,0 @@
-2017/10/23 10:36:49 [error] 7#7: *1 open() "/home/work/dsp/disconf-rd/war/html/favicon.ico" failed (2: No such file or directory), client: 10.88.124.33, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.77.3.102:8081", referrer: "http://10.77.3.102:8081/"
-2017/10/23 14:03:21 [error] 6#6: *1 open() "/home/work/dsp/disconf-rd/war/html/favicon.ico" failed (2: No such file or directory), client: 10.88.124.33, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.77.3.102:8081"
-2017/10/23 14:04:02 [error] 6#6: *8 open() "/home/work/dsp/disconf-rd/war/html/favicon.ico" failed (2: No such file or directory), client: 10.88.124.33, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.77.3.102:8081", referrer: "http://10.77.3.102:8081/"
